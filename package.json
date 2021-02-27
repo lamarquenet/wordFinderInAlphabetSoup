@@ -1,0 +1,16 @@
+{
+  "name": "sopadeletras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./src/problemSolver.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.0",
+    "request": "^2.88.2"
+  }
+}
